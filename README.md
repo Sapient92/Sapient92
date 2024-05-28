@@ -2,7 +2,7 @@
 
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapient92)](https://github.com/Sapient92/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   
 <h2>Once I've Used</h2>
 <div>
