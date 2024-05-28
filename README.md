@@ -1,6 +1,8 @@
 ## Sapient, Front-end Developer 👋
 
-
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapient92)](https://github.com/Sapient92/github-readme-stats)
+  
 <h2>Once I've Used</h2>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -15,6 +17,7 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+</div>
 </div>
 
 
